@@ -13,7 +13,7 @@ I'm a first-year undergraduate student pursuing a bachelors degree in **Computer
 - 🔭 I’m currently working on: probably yet another Twitter bot
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: My passion for programming was indeed born from wanting to create mods/worlds as a child, especially via Minecraft and Roblox
+- ⚡ Fun fact: My passion for programming was born from wanting to create mods/games ~~and to hack free robux~~ as a child via Minecraft and Roblox 
 
 
 ### 🛠 Toolkit
