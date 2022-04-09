@@ -2,7 +2,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/kahmeeah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kahmeeah)
 [![twitter badge](https://img.shields.io/badge/@kahmeeah-30302f?style=flat&logo=twitter)](https://twitter.com)
-[![Gmail Badge](https://img.shields.io/badge/kao8144@nyu.edu-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/kao8144@nyu.edu-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:kao8144@nyu.edu)
 <img src="https://komarev.com/ghpvc/?username=kahmeeah&style=plastict&color=blueviolet" />
 
 
