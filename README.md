@@ -1,7 +1,57 @@
-## print("Hello World, I'm Kahmeeah") <img src="https://gifs4crds.carrd.co/assets/images/gallery03/a55e4f1a.gif?vca07fc73a" width="50px" align="middle"> 
+```shell
+kam@kams-MacBook ~ % cd Desktop
+kam@kams-MacBook Desktop % ls
+documents/  photos/  music/  HelloWorld.py
+kam@kams-MacBook Desktop % python3 HelloWorld.py
+------------------------------------------------------
 
+LOG - Verifying file... feeding the cats...
+LOG - Connecting to server...
+
+   /\_/\     /\_/\     /\_/\  
+  ( o.o )   ( ^.^ )   ( 3.3 )
+   > ^ <     > ^ <     > ^ < 
+
+LOG - Activation successful!
+
+------------------------------------------------------
+
+Hello World, Im Kahmeeah!
+Email: kao8144@nyu.edu
+
+Blurb: So, who am I? A lover of cats (obviously) with a passion for programming
+(obviously (again)). I am currently pursuing an undergraduate bachelors degree
+in Computer Science at New York University, with a minor in Cyber Security.
+
+Toolkit:
+Languages --- Java, Python, C++, HTML, CSS
+Deployment/Cloud --- Docker, Heroku, Amazon AWS
+Frameworks --- Flask
+OS --- Mac OS, iOS, Windows, UNIX
+
+------------------------------------------------------
+
+Goodbye, World!
+   /\_/\     /\_/\     /\_/\  
+  ( -.- )   ( -.- )   ( -.- )
+   > ^ <     > ^ <     > ^ <    zzzzzz
+Meow! Miaou! 喵! Miaŭ! にゃーん! Niaou! Mjá!
+
+> exit
+kam@kams-MacBook Desktop % exit
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+
+```
+
+<!--## `Hello World, I'm Kahmeeah!` <img src="https://gifs4crds.carrd.co/assets/images/gallery03/a55e4f1a.gif?vca07fc73a" width="50px" align="middle">
 <!--[![linkedin badge](https://img.shields.io/badge/kahmeeah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kahmeeah)
-[![twitter badge](https://img.shields.io/badge/@kahmeeah-30302f?style=flat&logo=twitter)](https://twitter.com)-->
+[![twitter badge](https://img.shields.io/badge/@kahmeeah-30302f?style=flat&logo=twitter)](https://twitter.com)
 [![Gmail Badge](https://img.shields.io/badge/kao8144@nyu.edu-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:kao8144@nyu.edu)
 <img src="https://komarev.com/ghpvc/?username=kahmeeah&style=plastict&color=blueviolet" />
 
@@ -30,15 +80,21 @@ Aspiring student developer with a curiousity for all things tech – Building, l
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<!--### 📊 Git Stats
+### 📊 Git Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kahmeeah&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&background=3A3033&border=50C896&stroke=50C896&ring=6A5DC0&fire=53B3E7&sideNums=D97EA0&currStreakNum=50C896&currStreakLabel=C7A47B&sideLabels=C7A47B&dates=53B3E7)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmeeah&show_icons=true&bg_color=3A3033&title_color=C7A47B&icon_color=53B3E7&text_color=D97EA0&border_color=50C896)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmeeah&show_icons=true&bg_color=3A3033&title_color=C7A47B&icon_color=53B3E7&text_color=D97EA0&border_color=50C896)
+
+
 
 ### 🐈 Fun
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=kahmeeah">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kahmeeah&show_border=true" alt="Data Card for Spotify">
 </a>
+
+<br></br>
+
+-->
 
 <!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kahmeeah&count=5)
 
