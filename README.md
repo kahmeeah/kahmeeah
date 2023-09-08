@@ -4,8 +4,6 @@ kam@kams-MacBook Desktop % ls
 documents/  photos/  music/  HelloWorld.py
 kam@kams-MacBook Desktop % python3 HelloWorld.py
 
-------------------------------------------------------
-
 LOG - Verifying file... feeding the cats...
 LOG - Connecting to server...
 
