@@ -15,13 +15,13 @@ LOG - Connecting to server...
 
 LOG - Activation successful!
 
-Hello World, my name is *Kahmeeah Obey*!         Email: kao8144@nyu.edu
+Hello World, my name is Kahmeeah Obey!         * Email: kao8144@nyu.edu
 
-Blurb --- Who am I? A lover of *cats* (obviously) with a passion for programming
+* Blurb --- Who am I? A lover of cats (obviously) with a passion for programming
 (obviously (again)). I am currently pursuing an undergraduate bachelors degree
 in Computer Science at New York University, with a minor in Cyber Security.
 
-Toolkit ---
+* Toolkit ---
 Languages: Java, Python, C++, HTML, CSS         Frameworks: Flask
 Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
 
