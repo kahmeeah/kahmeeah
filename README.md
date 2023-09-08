@@ -3,6 +3,7 @@ kam@kams-MacBook ~ % cd Desktop
 kam@kams-MacBook Desktop % ls
 documents/  photos/  music/  HelloWorld.py
 kam@kams-MacBook Desktop % python3 HelloWorld.py
+
 ------------------------------------------------------
 
 LOG - Verifying file... feeding the cats...
@@ -14,20 +15,15 @@ LOG - Connecting to server...
 
 LOG - Activation successful!
 
-------------------------------------------------------
+Hello World, my name is *Kahmeeah Obey*!         Email: kao8144@nyu.edu
 
-Hello World, Im Kahmeeah!
-Email: kao8144@nyu.edu
-
-Blurb: So, who am I? A lover of cats (obviously) with a passion for programming
+Blurb --- Who am I? A lover of *cats* (obviously) with a passion for programming
 (obviously (again)). I am currently pursuing an undergraduate bachelors degree
 in Computer Science at New York University, with a minor in Cyber Security.
 
-Toolkit:
-Languages --- Java, Python, C++, HTML, CSS
-Deployment/Cloud --- Docker, Heroku, Amazon AWS
-Frameworks --- Flask
-OS --- Mac OS, iOS, Windows, UNIX
+Toolkit ---
+Languages: Java, Python, C++, HTML, CSS         Frameworks: Flask
+Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
 
 ------------------------------------------------------
 
@@ -38,6 +34,7 @@ Goodbye, World!
 Meow! Miaou! 喵! Miaŭ! にゃーん! Niaou! Mjá!
 
 > exit
+
 kam@kams-MacBook Desktop % exit
 
 Saving session...
