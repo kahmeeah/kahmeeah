@@ -27,8 +27,7 @@ Languages: Java, Python, C++, HTML, CSS         Frameworks: Flask
 Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
 
 ------------------------------------------------------
-The Domino Effect:
-                                                             /______/|  2. getting a degree in
+The Domino Effect:                                           /______/|  2. getting a degree in
                                                   /_____/|  |     o ||  computer science?!
                                         /____/|  |    o ||  |   o   ||
 1. typing %appdata% to         /___/|  |   o ||  |  o   ||  | o     ||
