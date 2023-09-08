@@ -27,6 +27,18 @@ Languages: Java, Python, C++, HTML, CSS         Frameworks: Flask
 Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
 
 ------------------------------------------------------
+The Domino Effect:
+                                                             /______/|  2. getting a degree in
+                                                  /_____/|  |     o ||  computer science?!
+                                        /____/|  |    o ||  |   o   ||
+1. typing %appdata% to         /___/|  |   o ||  |  o   ||  | o     ||
+install minecraft      /__/|  | o  ||  |  o  ||  | o    ||  |-------||
+mods when ur    ___   | o ||  | o  ||  | o   ||  |------||  | o   o ||
+a kid  __     | o ||  | o ||  |----||  |-----||  | o  o ||  |   o   ||
+ __   | o ||  |---||  |---||  | o  ||  | o o ||  |  o   ||  | o   o ||
+|o |  |___|/  |___|/  |___|/  |____|/  |_____|/  |______|/  |_______|/
+
+------------------------------------------------------
 Goodbye, World!
    /\_/\     /\_/\     /\_/\  
   ( -.- )   ( -.- )   ( -.- )
@@ -52,6 +64,16 @@ Saving session...
 [![twitter badge](https://img.shields.io/badge/@kahmeeah-30302f?style=flat&logo=twitter)](https://twitter.com)
 [![Gmail Badge](https://img.shields.io/badge/kao8144@nyu.edu-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:kao8144@nyu.edu)
 <img src="https://komarev.com/ghpvc/?username=kahmeeah&style=plastict&color=blueviolet" />
+
+                                                             /______/|
+                                                  /_____/|  |     o ||
+                                        /____/|  |    o ||  |   o   ||
+                               /___/|  |   o ||  |  o   ||  | o     ||
+                       /__/|  | o  ||  |  o  ||  | o    ||  |-------||
+                ___   | o ||  | o  ||  | o   ||  |------||  | o   o ||
+       __     | o ||  | o ||  |----||  |-----||  | o  o ||  |   o   ||
+ __   | o ||  |---||  |---||  | o  ||  | o o ||  |  o   ||  | o   o ||
+|o |  |___|/  |___|/  |___|/  |____|/  |_____|/  |______|/  |_______|/
 
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Ez13DCR.jpg?1">
