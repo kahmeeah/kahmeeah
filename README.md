@@ -23,7 +23,7 @@ Hello World, my name is Kahmeeah Obey!         * Email: kao8144@nyu.edu
 in Computer Science at New York University, with a minor in Cyber Security.
 
 * Toolkit ---
-Languages: Java, Python, C++, HTML, CSS         Frameworks: Flask
+Languages: Java, Python, C, HTML, CSS, JS       Frameworks: Flask, React
 Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
 
 ------------------------------------------------------
