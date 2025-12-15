@@ -1,32 +1,6 @@
 ```shell
-kam@kams-MacBook ~ % cd Desktop
-kam@kams-MacBook Desktop % ls
-documents/  photos/  music/  HelloWorld.py
-kam@kams-MacBook Desktop % python3 HelloWorld.py
 
-======================================================
-------------------------------------------------------
 
-LOG - Verifying file... feeding the cats...
-LOG - Connecting to server...
-
-   /\_/\     /\_/\     /\_/\  
-  ( o.o )   ( ^.^ )   ( 3.3 )
-   > ^ <     > ^ <     > ^ < 
-
-LOG - Activation successful!
-
-Hello World, my name is Kahmeeah Obey!         * Email: kao8144@nyu.edu
-
-* Blurb --- Who am I? A lover of cats (obviously) with a passion for programming
-(obviously (again)). I am currently pursuing an undergraduate bachelors degree
-in Computer Science at New York University, with a minor in Cyber Security.
-
-* Toolkit ---
-Languages: Java, Python, C, HTML, CSS, JS       Frameworks: Flask, React
-Deployment/Cloud: Docker, Heroku, Amazon AWS    OS: Mac OS, Windows, UNIX
-
-------------------------------------------------------
 The Domino Effect:                                           /______/|  2. getting a degree in
                                                   /_____/|  |     o ||  computer science?!
                                         /____/|  |    o ||  |   o   ||
@@ -37,24 +11,10 @@ a kid  __     | o ||  | o ||  |----||  |-----||  | o  o ||  |   o   ||
  __   | o ||  |---||  |---||  | o  ||  | o o ||  |  o   ||  | o   o ||
 |o |  |___|/  |___|/  |___|/  |____|/  |_____|/  |______|/  |_______|/
 
-------------------------------------------------------
-Goodbye, World!
-   /\_/\     /\_/\     /\_/\  
-  ( -.- )   ( -.- )   ( -.- )
-   > ^ <     > ^ <     > ^ <    zzzzzz
-Meow! Miaou! 喵! Miaŭ! にゃーん! Niaou! Mjá!
-------------------------------------------------------
-======================================================
-> exit
+-------------------
 
-kam@kams-MacBook Desktop % exit
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-[Process completed]
+* Kahmeeah Obey
+* Email: kahmeeah@nyu.edu
 
 ```
 
